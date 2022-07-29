@@ -1,0 +1,18 @@
+body {
+    background-image: linear-gradient( #fa70b1 30%, #fc238a);
+}
+
+.heading {
+    font-size: 25px;
+    width: 50%;
+}
+
+b {
+    color: #ffffff;
+}
+
+#camera {
+    border: dashed 2px black;
+    width: 350px;
+    height: 300px;
+}
